@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  LocalizedStringManagementWithStringsFileExplorer
+
+  Created by Kennedy Karimi on 13/08/2024.
+  
+*/
+//To create this Localizable.string file, right-click on the project folder(The blue one with the 'A' logo & has the same name as this app) and got to 'New File'. Go down to resource and select Strings File (legacy)
+    
+////(Localizable.strings) The semi colons are a necessity.
+
+"greeting_message" = "Hello, world!";
+"cancel_button" = "Cancel";
+"save_button" = "Save";
+"goodbye_message" = "Goodbye, world!";
